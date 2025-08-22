@@ -13,7 +13,7 @@
 #     time.sleep(1)
 
 
-# print("Time's Up!")
+# print("Time's Up!Please stop writing.")
 
 
 
